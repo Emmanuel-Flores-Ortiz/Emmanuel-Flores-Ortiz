@@ -24,7 +24,7 @@ Me gusta apreciar los pequeños placeres de la vida, como lo es la musica jazz, 
 - Python (Seguimos aprendiendo)
 - Arduino
 - PLC
-- Git & GitHub
+- GitHub
 - Matemáticas aplicadas
 - Desarrollo creativo
 
